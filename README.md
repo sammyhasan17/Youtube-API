@@ -1,7 +1,3 @@
-Here’s a revised version of your README with an expanded introduction that clearly explains the **data sources**, including **comments**, and what types of analysis are possible — such as identifying **trending topics**, **audience sentiment**, and **videos with poor reception**.
-
----
-
 # 🎥 YouTube Channel Sentiment Analysis with NLTK & Data Visualization
 
 This Jupyter Notebook project analyzes **YouTube video content and audience reactions** using publicly available data from the **YouTube Data API**. It pulls metadata like **video titles, descriptions, and comments** from multiple channels, and applies **Natural Language Processing (NLP)** to detect patterns in tone, sentiment, and engagement.
