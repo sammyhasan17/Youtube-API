@@ -6,13 +6,13 @@ By analyzing both **creator intent** (via titles/descriptions) and **audience re
 
 ## ❓How these insights can drive growth and revenue
 
-# Content Strategy Optimization: Identify what types of videos perform well or poorly, so you can double down on successful content and phase out what underperforms
+* Content Strategy Optimization: Identify what types of videos perform well or poorly, so you can double down on successful content and phase out what underperforms
 
 * Trending Topics Detection: Spot topics with high positive engagement and leverage those macro trends to attract more viewers and subscribers
 
 * Audience Misalignment: Discover where creators may be missing the mark so they can avoid repeated mistakes and improve audience satisfaction
 
-* Collaboration Opportunities: Analyze where different channels share similar audience behavior, helping creators partner effectively to boost engagement and views
+* Collaboration Opportunities: Analyze where different channels share similar audience behavior, helping creators partner effectively to boost engagement and find pain points they share
 
 Whether you're a content creator, social media analyst, or brand strategist, this project helps quantify and visualize messaging tone and community feedback across any set of YouTube channels.
 
