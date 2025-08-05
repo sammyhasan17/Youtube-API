@@ -4,7 +4,7 @@ This Jupyter Notebook project analyzes **YouTube video content and audience reac
 
 By analyzing both **creator intent** (via titles/descriptions) and **audience response** (via top-level comments), the tool offers powerful insights
 
-# Big Questions
+## How these insights can drive growth and revenue
 
 *Content Strategy Optimization: Identify what types of videos perform well or poorly, so you can double down on successful content and phase out what underperforms
 
