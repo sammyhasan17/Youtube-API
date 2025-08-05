@@ -2,11 +2,17 @@
 
 This Jupyter Notebook project analyzes **YouTube video content and audience reactions** using publicly available data from the **YouTube Data API**. It pulls metadata like **video titles, descriptions, and comments** from multiple channels, and applies **Natural Language Processing (NLP)** to detect patterns in tone, sentiment, and engagement.
 
-By analyzing both **creator intent** (via titles/descriptions) and **audience response** (via top-level comments), the tool offers powerful insights into:
+By analyzing both **creator intent** (via titles/descriptions) and **audience response** (via top-level comments), the tool offers powerful insights
 
-* What types of videos perform well or poorly
-* What **topics are trending** based on positive engagement
-* Where creators might be **missing the mark** with their audience
+# Big Questions
+
+*Content Strategy Optimization: Identify what types of videos perform well or poorly, so you can double down on successful content and phase out what underperforms
+
+*Trending Topics Detection: Spot topics with high positive engagement and leverage those macro trends to attract more viewers and subscribers
+
+*Audience Misalignment: Discover where creators may be missing the mark so they can avoid repeated mistakes and improve audience satisfaction
+
+*Collaboration Opportunities: Analyze where different channels share similar audience behavior, helping creators partner effectively to boost engagement and views
 
 Whether you're a content creator, social media analyst, or brand strategist, this project helps quantify and visualize messaging tone and community feedback across any set of YouTube channels.
 
